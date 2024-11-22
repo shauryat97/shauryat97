@@ -1,7 +1,7 @@
 ### Hi,I'm Shaurya 👋
 
-- 🌱 Currently working as a Senior Data Scientist in EY GDS India.
-- 🔭 Graduated from the Department of Computational and Data Sciences, Indian Institute Of Science,Bangalore.
+-  🔭 Currently working as a ML Researcher at a Healthcare based DeepTech Startup.
+-  Graduated from the Department of Computational and Data Sciences, Indian Institute Of Science,Bangalore.
 - 📫 How to reach me: https://www.linkedin.com/in/shauryat97/
 
 <!--
